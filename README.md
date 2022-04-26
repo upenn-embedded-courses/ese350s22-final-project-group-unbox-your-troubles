@@ -1,6 +1,6 @@
 Welcome to our ESE350 Final Project: Unbox Your Troubles
 
-Devpost: 
+Devpost: https://devpost.com/software/unbox-your-troubles
 
 Demo Video Link: https://youtu.be/tTUIvm3ZuiI
 
